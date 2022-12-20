@@ -2,7 +2,7 @@
 
 In this repo you can find implementation of observer design pattern using simple scenario.
 
-# Scenario
+## Scenario
 
 Digital devices such as smartphones, laptops, wireless speakers etc. powered by a battery. Therefore, there are functions for display battery level to the user, show notification when battery is low and switch to power saver mode when necessary. These functions should triggered when battery level is changing. Your task is to implement a system to notify user about the changing of the battery level.
 
